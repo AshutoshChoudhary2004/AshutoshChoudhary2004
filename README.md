@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ashutosh.work2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yBxw01HP0voYvIgn6oeBrQSWh2YR2Sjj/view?usp=sharing](https://drive.google.com/file/d/1yBxw01HP0voYvIgn6oeBrQSWh2YR2Sjj/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/FiRO6](https://shorturl.at/FiRO6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
