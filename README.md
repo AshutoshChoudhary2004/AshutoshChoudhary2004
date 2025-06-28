@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **ashutosh.work2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s8mmPQywmCzkBQ5kVezRBCQHXjX8L07O/view?usp=sharing]
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1s8mmPQywmCzkBQ5kVezRBCQHXjX8L07O/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
