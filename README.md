@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Choudhary</h1>
 <h3 align="center">A passionate full stack developer and Competitive Programmer from India</h3>
 
-- 🔭 I’m currently working on [Job Portal](https://github.com/AshutoshChoudhary2004/Job-Portal)
+- 🔭 I’m currently working on [Job Portal](https://github.com/AshutoshChoudhary2004/Chatify)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshutoshChoudhary2004?tab=repositories](https://github.com/AshutoshChoudhary2004?tab=repositories)
 
